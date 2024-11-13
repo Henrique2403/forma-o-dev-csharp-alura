@@ -156,5 +156,4 @@ void ExibirMedia()
     }
 }
 
-
 ExibirOpcoesDoMenu();
